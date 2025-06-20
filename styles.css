@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+background: rgb(48,87,241);
+background: -moz-radial-gradient(circle, rgba(48,87,241,1) 0%, rgba(0,36,179,1) 100%, rgba(153,199,236,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(48,87,241,1) 0%, rgba(0,36,179,1) 100%, rgba(153,199,236,1) 100%);
+background: radial-gradient(circle, rgba(48,87,241,1) 0%, rgba(0,36,179,1) 100%, rgba(153,199,236,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3057f1", endColorstr="#99c7ec", GradientType=1);    
+}
+
+  path {
+    fill: #ffffff;
+  }
+  
+  .st0 { 
+    fill: none;
+    stroke-width: 30px;
+    stroke: #fff;
+  }
+
